@@ -1,0 +1,1567 @@
+{
+   "html_attributions" : [ "Listings by \u003ca href=\"http://www.openrice.com/\"\u003eOpenRice\u003c/a\u003e" ],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.289613,
+               "lng" : 103.855793
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "9597dd433dd9ae4dccc61b20700be2ab9b9403b6",
+         "name" : "Barossa",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 861,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAe1QpgbT2ohlsP52-EO76RCRWpnr-h2ZvJ1l8Gb_ga4fk-IhVRx5rcfUpZ7W7j_JUQvIsgU8yEpIH2y6xh3MKC7bjSqgNwdGOaDwB337rZ3ZVeMpCfdLbff2NXhdhC6xqTiPpFYY-gb772MO7sdfnQxIQpxFzHOHKpV2e65cV_G4KVRoUZckcrw1h0_Rk-yjR9OgjV7YND3k",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJpRox6KcZ2jER3SDR9vWhoAA",
+         "rating" : 4.1,
+         "reference" : "CmRZAAAAbSYu8pZgs2mONRMGKU1HICtM1tNw1C6GSiSDPKXS6OOjKorBBmZMgXznLaf1Lc7nvubGZrcjgGbQ1WernLF28C0Ob4XfjKKhJwfwXPPduftmYanNCiXcjcMwu3SCEgmtEhALZMGNMYe3mfjE3eDC93IOGhQ4nE_qWMmCfXPDGfVVSmMM2hEXCg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "8 Raffles Ave, #01-11 Esplanade Mall"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.296085,
+               "lng" : 103.853157
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "e3dbae57f965ccd4b1f120006c6240216850d314",
+         "name" : "Loof",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAu9A75JSEMl_RRKYWnqtqWj1KPtaY-RVcILbZM97FtN3H0o8bq8R6pdmzjyh_fpcevQGbby3pzbJpGPjDU3roqjRh_ZRlDwKPkd_iOSK4xIz6gRq823-fjKJY0P9zy3lY0l8V7mehi9vU-eEi9OkGzhIQlJmGS6zJazUHJ4TU8KyRrxoUrX1m4U2J2Z9Fxr6eCjrTKKP05nM",
+               "width" : 1534
+            }
+         ],
+         "place_id" : "ChIJkegE_aQZ2jERLOiTv97TSbQ",
+         "rating" : 4.1,
+         "reference" : "CmRYAAAALHX5mgQNBFYO17KhJoU5y_v70CvgASwL5sL_TSv27IJY6FqKJviG4J_3Hl84ORIwWoRjifbPvabI2AfxMsYbVBT9nywi09PE8pPkwaT-T56DAB8DVoymdZmuU4QWT925EhA0vW9JPA7ekLehRRDC-lGGGhS8eDM9gZP5ePmiE3p6HaHHEx6_EQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "331 North Bridge Road, #03-07,Odeon Towers"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.293338,
+               "lng" : 103.852912
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "9bd9e95e98f484daabcb726bbb2f5b975605c0fd",
+         "name" : "New Asia",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJZ9ocfqYZ2jERCCAXb7Rf80c",
+         "rating" : 4.1,
+         "reference" : "CmRbAAAAob9Hg7D5pwFoNA7_YnnAV3b3qwY1JpjWQ_9IssToYLFR3gZ7bKId7AJ0StBV5R91pybeuRkcx4lOgRJVr9ZHTK1594CjzuwCun_YEHiCNHWuZ2DxSL5oArYuVpc0hk5gEhAcfGJ9npOq_VUKKSkXk4T3GhRIwLXSPobi7H6y3F5TiwBUREumPQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "Level 70, Equinox Complex, Swissotel The Stamford, Singapore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.284801,
+               "lng" : 103.851112
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "fec7a9e1bfcd41f1386233a07e276d387de1fc02",
+         "name" : "1-Altitude",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAvNj8IcQH-MkgI-9QDP49kBP8IejY-prx62be1_2Y_bvyqjb-laBNBd-KahvWvf824E20mvxnrXK0bsam9XqSxbaF1f_Js51HT4uLX3Z2zCzuSET1P-OtA1xghX0BergXro1Iq7Cc6DyQn2v90TtARBIQFQFa3YByYysa2WvhJDYLLhoUPVHeaGp2EJoK1bNhgCZVr7t39ts",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ4WSiUwkZ2jERXF5TIQitMAY",
+         "rating" : 4.3,
+         "reference" : "CmRdAAAAU5hDUmmwTLYJZkMqnsLxX8lr5b5x4g72bGDJTbGlZxdE423iIWLeRD7xLRkMhmOCh9X-ILFogLbeZ73LBEds5UxHbPqNtc5rGNDDjuW1OqO5kDdh2CqUwKpvmttn6JRFEhDRoH0WoGsgBylNOLspSsB4GhSdg1uJhib-Yrt7H1jYOSzv1iHrzg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "1 Raffles Place"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.290303,
+               "lng" : 103.836912
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c85ab53bc6aac7198e695ced962866ad930983f3",
+         "name" : "Bar Bar Black Sheep",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJeYscvp0Z2jERROy055P_2Ik",
+         "rating" : 3.8,
+         "reference" : "CnRnAAAA7k5Iok8ej1S5lUQHX4J8Hbj8lmJL-i_hGrQlQTxHi4FL3NBgZanRGKltOJtlwBxnWovQ4C81FZY1hZJOi_kmnc1XraR4VoA2RPwM5TPxFOJ4-oIlpq4FBvGmhUx_t7PF0wHFZJR31TXZCQt6pg1OihIQVdydKAfm_TkLGC0-jgpPbhoUjeMhgwwpvjSQnzX27lc4Y5xk_Zs",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "86 Robertson Quay #01-04, Singapore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.278251,
+               "lng" : 103.84569
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "acbcbca111849325ad8462ff37442723de6642de",
+         "name" : "Boulevard Restrobar",
+         "photos" : [
+            {
+               "height" : 251,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAZ-1yhbxbMpthlLH-VJQJHsImz1JMn4F5XoIleuKyVuNx4pTqe90B02ecBPNGBf24fWvLAw6uhKLFDkVaKoStffwrsl4g_panB_08ZPGrkIfYAJ8Kr1eSICiWqHZbqnIEFD6CoJMkWIt7Yo8Ti_mHcxIQSv9Wkx4hyhVGGfqoLUauSBoUOK_I17R-IHEAZjE_rTX6QsG1oBE",
+               "width" : 326
+            }
+         ],
+         "place_id" : "ChIJqStVxBIZ2jERelB1Aj2qV_k",
+         "reference" : "CnRnAAAAFcJIkMm5jifKY4cjuJTtOa61bvYoedsezN43W67EFYKEyqNTzEy86FRAnGLjFwIcqiHX70OYZA-wizns2p-BNOP8ShuHLQnup-csi4BZFHBByoBEbNMO7V1-dTDRLYU8nxZKAs0g7oxKy3DWXB1ViBIQ3a4Jtq93CcCf-NXDVMnLbBoUobNBnJumhT36J86vw7H_wWSC5Rk",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "28 Maxwell Road, Singapore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.287058,
+               "lng" : 103.853435
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "f51db4cc26d4ae59a86a5e857c8fe350b8ec7d4f",
+         "name" : "Prelude",
+         "place_id" : "ChIJs3rPrAkZ2jERj_Kmc1G0MNc",
+         "reference" : "CmRbAAAAI4A4Z3FC0foJfpBMJgiGatqlfCn7lG32V4uOmnuUKUaRWYiKCPruG1LrfuwVNOTSNI0xyzNikrMY_C-7vIW5PToJP3xbEDu37JqGDGSMaAaZbfkDi9ySQ-loK_fiPVsUEhAR_sx7n2b2Uxnt1LekzAPgGhT7-j2R-VeRQIOI9oiUHHzzcQsRCQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "3 Fullerton Road, Singapore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.288754,
+               "lng" : 103.851124
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "680b44f9bcf9f7449542a9cd2eec726677c3b517",
+         "name" : "Timbre - The Arts House",
+         "place_id" : "ChIJR8Lg_AkZ2jERy9vUMdcmYNc",
+         "reference" : "CnRrAAAAu35hrEs2veRDimUeuJSpzr4C1acrfOxtk6e9pvQ2HzoZwSvEcQ-Yu6yIFFjSRYlqW3bFvs-ywW570IDn5dLDam4iqkbl9FUe3amUAjcWe_KISu97T_RdE0_FWmr_m9J7LKeLaxDt4ir54S6hg6oN2xIQu-2pktP2Xl3DuB76gFbvMRoUkcxrZJ8Utlrh6TfvT9-a3O7Q8jQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "1 Old Parliament Lane, The Arts House,#01-04"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.281828,
+               "lng" : 103.847768
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "6a472dde98af59a5c1a19c63cb0aec0e4d068ae4",
+         "name" : "Vanilla Bar and Cafe",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1169,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAaQ05DJRb6UVjs6Js3dsjXw1ynyOxtRQo6HtgsUGsMSIHFVYy7iBsix9r0zDvZXID2EcsSxatnk7_uq3Gdw61nxCCq166eVKwUFEPltACuXGt58aokbdAYdljkKCWsAwH53ZxtXgetIjy_QCQuaD_RhIQGEUyY6KTAzR9Jwd7RIS7_xoUFtk3qIzE_jz33ZzzB6ivKiNAfFU",
+               "width" : 827
+            }
+         ],
+         "place_id" : "ChIJf-FRBw0Z2jER7j0WfwyPBAM",
+         "rating" : 4.1,
+         "reference" : "CnRnAAAAwCQMAoRJ4OAozccuIErjdje0vzPnCtPc36RKKAlbUxXi-91yTmt_l7ak_p0pNDFmJ4XF1ky4do4k0C5DDaHSO6pC2EUHrxVZq4uYD2XTZ_lf-kVkBlO_0dVrZWwn0VJAV9L2Djd8Q2-9h95quN4y-xIQQzsvmlYh35L6iYph9IfjVxoUDNwavvH4LDXzNqar_TqaARSq4fk",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "bar", "food", "establishment" ],
+         "vicinity" : "3 Boon Tat St #01-01"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.285979,
+               "lng" : 103.849949
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c7ad5fcc0b9fab0696b2dcf9f937c1a9ab815e50",
+         "name" : "Harry's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAE8n0SlNPnLUmrF_s6RUqZV8UomTjKZ0SY73YXNmKrqR1gxzd6vyydO2_lAlyDDZAt_DJ03vrgNuWX52jvLTpvVoN0XsaFpBCQpYn_f0TmajfoQsUCExa8zJf7Ptczssnlfie49NPOkg5bEXYEuOieRIQDmQ2lhMFNNqqvPQqTSCZ1RoUu_dX9OXSLz_T4KWQM-7x7bWAIEM",
+               "width" : 1365
+            }
+         ],
+         "place_id" : "ChIJE-cm2wsZ2jERLKCBfIV0RxM",
+         "rating" : 4,
+         "reference" : "CmRaAAAAyg75QeYh7L-czl0lS_NjpT4Yl4RvzNp3dTN-jRFoTHdbcDfdmrKPaRUPtpjddQDam5qPEKYFepX8DvbtduHP1CjnEZatzB2YMdfShtJU0eeRXiwFIlK9ZIwwdoRLLoSAEhDcisBeu51m-GSQkkva4fcxGhRGfas7WZfQJPhei3vreeMwKnybmA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "28 Boat Quay"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.28649,
+               "lng" : 103.849575
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "144fcb4a67977c2beb50c4f639ec760fb277821c",
+         "name" : "BQ Bar Singapore",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2044,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBegAAAF4cJsbgP-efHoDE0dRSDMjczuDWrmFAF0Fx5kbTwo1lnbo_4FS0BQb0vfndLI219jVLrnvKTLIQ_yc5hRNlHD-wyKIigGgoIahtfKqTS24uRffGP8r0kiXSE5TcWiytL7KxeU73h1gmLRNji8Aj1qsaSBjnOHKwhW_UVda_kEddEhDEKh4V6seoknX5XzuMED5EGhTaB8iszpm7uBDjnSN1qKttdQrGiA",
+               "width" : 2044
+            }
+         ],
+         "place_id" : "ChIJB478zgsZ2jERaOnUIPfDkv0",
+         "reference" : "CnRkAAAAk05jYD2f4WqvkkMR8h893oEXUTIcKleAn58TymIbunbgEvJ531ZXveiUn1LHOpT5VtvpbnPEbKeRM6q2I_Q1HmcrUjekWqroFsCE7OL0VI0DZlfctXhHE_qhEU3MWNe-DETePy0oNc8zgSJlcKkHXxIQCrVuS3GeJM0aq8gYKxj5vxoUHTL0dE-DpqKOwXCFye0a9tEXp8k",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "39 Boat Quay"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.286156,
+               "lng" : 103.849808
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "b10cb67ad8a3936fc2f8ac7835d5c776d20da2af",
+         "name" : "Dallas Restaurant & Bar",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 334,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAY9M0eHAFQ07puxeC2DJHERXGs9Bkuzn3uso6Urx0RrahhVmAyQyghNKo_Iw1CibzTU_unVQZDALKyD8fPICoGd9m49MRlCZ6SyB9K8gZysFldsjZLkXMX1kLiba959jvuXgc01qREACslhUQQ00iSxIQekxnX1tpQpjv9J8WYBKbZhoUaaTeDK2CfKoLACgTOeQl-UALdPI",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJR2U_2wsZ2jERASO_2lCj4No",
+         "reference" : "CnRrAAAAVjKT7YmgopUmHCYXCMGOEK8HlQKHKGjI0aenbOTE3rfzAStggmGT_pSIUyp7ahJMEHpAnA5WZtncri88Jl4U3mXwVGWLn8NaAAkZdP2L3y5IhtEPU-qLdDw10vzVIHK3SHuVMAIKnb9M1SORjKUYghIQpL0zSsLqZyT7elDD5GB5VxoU83OcJER1vKVbz7muWpFquvbU-Xs",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "31 Boat Quay"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.290179,
+               "lng" : 103.846049
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "2f290f2643e45a482ce7fa93999dd94c4255362e",
+         "name" : "Le Noir",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 439,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/111242009755539052595\"\u003eAmanda Ng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAALRJxqQeNbPtrswMNMyDara_jV4OawQ_U8l_yot02-pa7NJ6zI3hBLIN7AZU3fnRLY2LHQnayMotVHulkWX-NOlGV-lvDYg0eupjb6Ua23K9w04mnBZwQ2v55ejlXgeqDQ13HKGmYFvHuwL4lr2_NIxIQAIHGLlQCWwxVUA_fZEdWShoUPfoQeAQ6hFRu2y2E7nQDKi_Oy2w",
+               "width" : 660
+            }
+         ],
+         "place_id" : "ChIJ34SNP6AZ2jEReNFHcp155Fk",
+         "rating" : 3.2,
+         "reference" : "CmRaAAAABjCF2Otl4vpTrltyvas-Pl0HP1b3CZkiYNyZdIKr8jW_WXXb5e1INqkEf2P3n1mpgjOTDDNFUA-szyr9LIWoUJ9Th7P4iisRUbBo9R46dqJ6Y4gNLKnShjYiC8tRohdtEhBTfqcZJe-uQ4b5IQwPGKrgGhSl_y9nJT0Hj-wUSCQD2GlhHPoCCQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "3C River Valley Road, #01-01, Clarke Quay, Singapore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.292831,
+               "lng" : 103.842029
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "004c5398f72d49d205713fd658a234f5aacd2cd6",
+         "name" : "En Japanese Dining Bar River Valley",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 268,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAPs_qnUe7BlwinCv5tGLjOSDl6OvY0WAbPGw3pMfNMtSxuTK86YTa89QAhRSPs2fEcfdgqih8KDHFi23V9E6ssev_y1L-ypxzhKsr8O8WZE5yO07Ifwb6_AZEJ_JyZAk6XnMUnk-1tW74D6bTl9B-RBIQv7ibyXombBt_sYQV5uRovBoU5LxwSc73rRsQITZAOSWkoqiGoW0",
+               "width" : 400
+            }
+         ],
+         "place_id" : "ChIJc1xp2J4Z2jERjsrsZHYPQEE",
+         "rating" : 3.4,
+         "reference" : "CoQBdgAAAEkyWKVZn7fJOcUt8Z1udCAnPpvU_9NcOMEPIXvBIRK6xaWlQ7rJ7sSBnUwb3aEtiFNz5GunROSa9N6MguYcf0SqLCWp6mETYgo5utK_RUNmGclEntaq6CBLyUy5s_X1eLkI1FKHYkz3eUD5gWIw0BOJGRGLap83KTrrBzbrbLJ_EhCCw3AfJCefzNyUQ8Li1bNEGhReUfQyTeUCEHKb0M1FWRvlxf4K6Q",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "207 River Valley Road, #01-57 UE Square"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.282513,
+               "lng" : 103.85351
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "35e94df454c97d972a1fb62ba834e10eb46d8911",
+         "name" : "Oyster Bar",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 683,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAqWwX80wtMUD8fS69IK7CjytCqHYSyJXxyt1MacRs_vLIaW6cCfG4NBp1thpBdCjxoOgO9XCMQ7749YjUUv8VlwPf8eoGoOUeh83WNHn0KGn52dX0EQ4Tv5AfVgVMVNiKMSylytC2Ft5KpjgHBudt1RIQXEnuUcYq4Kf1gHfGGNPxRhoUJZQsoIgOkF0jc0Dms5ec5cl8JqI",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJo8Nh_Q4Z2jERFLSU6UeM0v8",
+         "rating" : 3.7,
+         "reference" : "CmReAAAA0wXCUrn2VrBqINLmaUUqyaas42bGfUA5fi_daTP3NJtiCX2b5MiJW3XcE_XMoSANDR7PUJCUdreZZmBwBJa0bXP9qx7Z2ZikKfO0TH0pLs8JdDKMHPeT5tTMA02G7UTlEhBQcS6al7EVKtpBgvFy396kGhT9rfiWVRR3ZvQUBnyGsj8FOjvyzQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "70 Collyer Quay, #01-01, Customs House"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.302032,
+               "lng" : 103.839136
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "3deeda931c3d810e2e43d4ca2fde8333d233c64d",
+         "name" : "No.5 Emerald Hill",
+         "photos" : [
+            {
+               "height" : 972,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/104564065271652596762\"\u003eMichael Gleisten\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAAXH-kXGx6DhsoHnWI4awK1rEbLa2Nu4Ip-0Fqj9tVQnE-7j9J85j-UgQvAD4xFXXF_H2XCiNslexyviM79yJjRj-Tx-Ev5ap4CkZ_xww-AiDKgWEnGIFuXMCWYvvGSZWAe_z4T5dkwkTGlSfsVeL-vxIQV36cWknJ1goo3we9ko8ZlBoUJ5e8lBVcLv-7cmaJYKU_Ak1_6PA",
+               "width" : 1296
+            }
+         ],
+         "place_id" : "ChIJyYw_y5YZ2jER75Fltq6YRug",
+         "rating" : 4.1,
+         "reference" : "CnRlAAAAsUfHIzOXujTRxAPDNg2hGvv5hIh7JNiy-WHEiAcSVZf-Cn2WRZn94FTMoAfEJdJi4T4xIyC64bp8_5NrfQk_SXGO9GQM8yRLYSiVKapN9F5L6HtBXTiv2zbtLZtaWilRJ5odF0A5lq-oHp0IUMoIzRIQ6LJSdchD_hiUR_VYKssmPxoUmsC6UIg4P7ISiBrBhDZE-E1wm14",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "5 Emerald Hill Road , Singapore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.285855,
+               "lng" : 103.854031
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8747f5d19633a039d20217997a7d034131e819a1",
+         "name" : "OverEasy Bar and Diner",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 848,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAACKO0rMIeVMAfq6Ge62749EU8VFoKAoqv_XG08RQspQmZhJ5QBhCVzwTW1O05pt9prxtZRZzRspJaS_QTfB0ubt5iKNhOzAXcsw-AYIkG2McdDWAvr0E3zETqe0ZQtFhNIrVCZ0dkY2xZvzcGjcqzTxIQ3g6BPNM_WRU7XXsk5u1a2hoUJDIVy8haPLsye7BOa4A93OWdEPw",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJsSmt3wgZ2jER9_kEznqvyLs",
+         "rating" : 3.1,
+         "reference" : "CnRqAAAAbjnw94F_r_qA0DBXdYH9dIZHs3HEJC60ABv-uF7ZJ5IIOjNr7pNoteXMy2gjti7fSr3FSfGq51J0T8YrssnhPDEehaSwD18iJU5RmVSourf3FIl-Eza1TXUJataumogbBk0KjZnPoYywPAJFZya5wRIQtfZ4fOc5bKW9SHaD9krlzxoUx_7TZcRSVuKEWQ62D8d-NHGrjQk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "1 FULLERTON ROAD, #01-06 ONE FULLERTON"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.290559,
+               "lng" : 103.845423
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "fc1aa9a7c76c802770a177708fdea90f497e2cb4",
+         "name" : "Highlander Bar & Restaurant",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1366,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAXVC7G20lTYeuTu5MLF7l5J1yxRLxMphjxeGjK-vDbd4H_w22YRA6h_zOn2U815t-84QgRi_-rdLTQTfVMHz4LWPcXmxXtisLl-NlMLhehJONgzCnzfkSqqcq2Zc6FnQr0KdCmbB7jxYfbyPylHf9shIQr4_f7eTEGcgTyDUFzB7SWxoU9Us5fRWTDNnQntQeVLkZoU8YeB0",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJrxFeMKAZ2jERubPEe562-QU",
+         "rating" : 4,
+         "reference" : "CnRuAAAAq2H9cjdCr-4jsd-Rbz-chX-0bHovnvbqcVluGfjgG_T8PDHLinX5vpS8ngULt4C0sDSAze7TnjCMS9siivV5tiAABOtWLvBryINmYCXCoL1jxRsx2gyZXnF84OuPc0by0tThVO5P9P-SJBhFdtgZexIQQK96y03t5tfSOIqF4I4yaRoUSoMyYXVVsV1zqfBNPX8XIYtAX_g",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "3B River Valley Road #01-11, The Foundry, Clarke Quay, Singapore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.292085,
+               "lng" : 103.841817
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c70dfd5db594920c0bc50e0c9044e258e4e8ac13",
+         "name" : "Wine Connection Cheese Bar @ Robertson Walk",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 542,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAzXmmfCSRPyKoTXndvRry7rRD0nbE2oa_ZmqoDs5jWU7yoNfsVLy1uLVixcQwjMFqHTSlTY7ZUknnEC-57mlTg0l0nlAASvPtdetubEkLNuoH0b7POX6ZZ_098cTXEjzdOiRhfVAm8s4TAVVhnmXb0BIQazIXS8TsxO-A7xFZX0xeARoUeLmmU35RaBMrGLVoMbvcF2gTWUE",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJJ1rP4p4Z2jERgivNnwvL8o8",
+         "rating" : 4.3,
+         "reference" : "CoQBfwAAAGacH3nHrbMdUly7QMDuO6GmHFS-saSjY_R6ReFnjkCRRlX8ekv4tiPM6nl2CV1NvLWULHZJLiwMOXDBv7d_9UcZvAe-_wy-ORwxPmQveO3wjmxaFOBCS7Injsc5G4nUXFx-MzFJwAqahXO_Zf4VAGLCiUQtt6JGjt8vERjsVU-EEhAkCZ2U0HP4Qll8f4d9Dwj7GhQNH_qX4NRtwdwISK2iB6ucQbxleg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "bar",
+            "restaurant",
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "11 Unity St"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.282478,
+               "lng" : 103.846773
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c5cab061b70aa88d7baea2b494a72f5ae6706037",
+         "name" : "Senso Ristorante & Bar",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 331,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAADfzxFSN2PIeBiF2xuazPJndlNHi4-H_3y4NmfvoaNtt_oNSwf-F7bhezt3ENN7dudK_1JJwv91sdb296QpFOBTWXCeDHJFJhJOs8dsgawZXnR3t2vQmOU2ZMlK_A-T-X4bwdiuuyeDNicyMXLH3rVBIQaAWB2sUO4g1HbZTrjMtgcRoU2rtkhVcNMzhBCZroFwzNZSm9cuE",
+               "width" : 719
+            }
+         ],
+         "place_id" : "ChIJwV1s5AwZ2jERMipRi0PkaJA",
+         "rating" : 4.3,
+         "reference" : "CnRqAAAAdL4V8CdUgLZgjMFs3XbMgLGUmAAgcqiejNCjU5vvuKffPXdTa0d8nDjw2eqk-sUBx4_GnYumOKT_RyxFcZssidiCDNx5b_GFrJMvJzisWHqwJJU3HOWOPTts0zaeQRrG-SupSe0KX7p5uTYkIqyqjBIQxAe3-Z-6Ojm0ymxIT9v7ixoUSZDfEbcm0a7iGKzFzxDZPwksc_U",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "21 Club St"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.286218,
+               "lng" : 103.852995
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "79fdc950920b6b1557618a1cb1f4392203ed55f0",
+         "name" : "Post Bar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAz71b04rjD6YNYti8bKmJ_dIDBPUxbm44xROjpwgplLtyg04iUnOHKJw3y7779h82alW1372iMdYghOnNqBtfmHZA1MWb9qlCyg163wjrjzkM_LYKPfikVB81RjgSugUJnOOm2UjOFhueKeKfPyMs-RIQreb8wpajx2HiDxbfpytAIxoUL4XLKMChAKiGf4diYRgsV9PJvKg",
+               "width" : 270
+            }
+         ],
+         "place_id" : "ChIJbxecDwkZ2jERc-BhXTfOnqI",
+         "reference" : "CmRcAAAAi5OfQwriYOZxbeDN00sVyrikkL48_tRF6dBEPefvQZ9gBW_KfRbplkwTqSwcfNtO3g9Lu2_44nhQWcoWVwHnCdO4VgBNDJvpdoFH2MtCsM3fxoJL6d9YqEnZrmq2ga0TEhDcZ3WEomtbBMzDglmYA5k9GhT_H8w49norQPO2URgexMMz0SqnPA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1 Fullerton Square"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.2905,
+               "lng" : 103.8452
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "825e72e26136c8adb944b1fa2bfb03c3829789c1",
+         "name" : "Bar Cocoon",
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/107785335537070776684\"\u003eErry Dainial Bonch\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRqAAAA_ApV013t-Jfx8yp7BUCByiNTEbHNddPDjAGMQ2lqMn67eX7CJS8f7WBM7rjjKVrqgR1cXO1sSP5df0VsrSIfv5UkTStIipNENnDF1UWSaYEE-tksh_jtYJWgM_LuRtNjqMkvHsXDUNJnPPHpmPgcRhIQ9FCGyqjnhVrey8s5TeGouRoUSWkrEcfnYUEnplpNFTqQ5fsQR4Q",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJbYTkI6AZ2jERFmVA_QGFJrY",
+         "reference" : "CmReAAAA3F_NO8Wuw4XhCYxjiY7AGBewOlcTqAdz-RByHJbsfXLbbqvfQNw9a8hG4yqqX487gyIbSidrlU_j0hd0SUXaDARH-stUVpsWMksfdwMXfKoxmgpk3tQZP1DPh2tO46WeEhCa-fPBMkwchQwrsoZ285tPGhT3a1qoLKcagLIuaggCLpwMe4qkqQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "3A River Valley Road, Singapore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.291234,
+               "lng" : 103.83539
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "9f75a7859598435fb5a4f62983d28e2ac37be91a",
+         "name" : "Zouk Winebar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 734,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAnBaurszMsP52z-5hUVt7QaMfa7xIefSDFOL1eGSXgzhnOnBdtJAPm15ej1n1zu8Ko3rihCWWOXdNgFZPn_g_JGY_tdNsOpOCnl6duJ2P8-YLkjY75e73487yzqdLcQIAuXxWBECAuTmYUAczLyt1WhIQW00KkEBCVR_549PicwNnyRoUYxXGmozH21EBT0kUvdequYNbHWM",
+               "width" : 940
+            }
+         ],
+         "place_id" : "ChIJ5Q9LA50Z2jEREpyQwfvfqQA",
+         "rating" : 3.7,
+         "reference" : "CmReAAAAS7VOhOkuInL0-9gnF-dB3y85ELwBgCTjpbhmMP2DhRuAGw9UaMQtWadI6-DWp5JyxIaeEWjzwtIaZkusaWkw4ZXnpFD5cR5UWScw8UqAqgPlBlGGvCoJ6xZdzarBMNxIEhB_5lY4aPepodhFiD5_nU6zGhT1ph_65RnkqujCMfP7okghxFZvUg",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "17 Jiak Kim St"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.298628,
+               "lng" : 103.849275
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "573acc29d83feb8140214dd10443391b4d6e23a4",
+         "name" : "Balzac Brasserie & Bar",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 299,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAl45l_QrNYWYws70UKrETlh_4-NznA2gkSjD22lJ0coKpJH9U70uOPir6trCDKOYViJG92G5WPWzCusVezKdmrdI5RTmUo2N3Eo_o7LiJ4BMWydorsYnSJvkrnWJbdjWvp9GwTVJrMqK5Cm7w-btkmxIQMn_n7IMl7dOKuBsPHVHC6BoU62kG5NAlGcX75t_GW_IShvLBaf8",
+               "width" : 448
+            }
+         ],
+         "place_id" : "ChIJYTVAyLwZ2jER8iRluZSYo4g",
+         "rating" : 4,
+         "reference" : "CnRqAAAA_LFhZrGqkrvCggGupHQfk3a-mpDKrgB0YTmQEqd-vXXfobRWsOKShttdQgbbqAuItyRZY5GazUSIP1738Nvwxbsnmc7SJx5CcAAAGjVc0bfJdFwXd97mguSnrNxHChEanf11XTqMBtzv2BOBcQ0TEhIQpBXog4w4qdSoLP9aiDTguRoUa_jt9h3NCOTSHYHsZ0Z3diRg1dM",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "9 Bras Basah Road, Singapore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.291028,
+               "lng" : 103.845262
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fedbe418fead164c45b845f7166614a76ca9b3bd",
+         "name" : "Cuba Libre",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 420,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAANJr438dvm5VLAnxfe9ND_aRK0xyKNzSaL4Z4o_i_7uUaf_XxsCDwzgORKEFCfDdChqPe00QRFs99Kiuc0RlSQIEzV5BRIAntbh_ySdrRcOJZpAPVTngyjKqghcgfhhkO5Vbkk7-8ERXdf323XVYdlhIQ-9mxZYADjFMHbGzQfAanixoU2A2DaLhiL66KqacqsHwAiZgRTgo",
+               "width" : 509
+            }
+         ],
+         "place_id" : "ChIJrxFeMKAZ2jERk5CNjBed76g",
+         "reference" : "CmReAAAAtRus94q0_fEPKK8VEiWOWRYHRlgtwy22wm-Dau_GpzzkKzdjj69zYb0Rezkjzz6vMXA60__DbxsdTyI8T06tq6ol0kgAEitbs2a7zNdLMtcjQxBL94mn4foyhkPgvKrZEhCZaqnDb-cdv4fz0m8pTYBiGhTy-F5mCxJsfeydQnxVk0KIgsK-xQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "3B River Valley Road, Singapore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.279521,
+               "lng" : 103.847247
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "9031ffcd53bf010783398a2b0b0b046912cbbe5b",
+         "name" : "Moo Bar & Grill",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/115741307980997056930\"\u003eSylvia Goh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOPzsTo1bRqwwZZBgvFwtaDyNPQ4Qj609mbFnu8BQ04clArUCyvd7IHJu8SRcdC0prrPs9HNL6zlAGak6egBvsqpMtURD-Laq5brirL7Lj0LJNPZFcsqpxPRHvdcgnXFaOuM0Tk24TgHs9o9d1uZnf8ZTfIms-9hDtVdpZhOnti9EhBkL0MWAEXFtKkJmz1BCVzqGhRdnObfneKpOEdjPVJnGMRPwmQCFw",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJSVpFgRIZ2jERVwwTpTuqPFI",
+         "reference" : "CnRiAAAAExS3ZHRTurXNtFHk9-h3Km6s1iG6oUQNWZBghvr16KaIc7cM2yFl0ZNFWAk98mOFbLQ-Ya18WOFUYBSsBYd2HGmUp86kpoGUjKHY19zYaSrELUbsbb7tTMBx1VkY81PBq-ep-0xyrp2ekmkLXFQM9hIQN5yXqbamDsyqK_9H866TChoULQKOFfaLLRSfGFwJgXUWIELvYNA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "21 McCallum St"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.295664,
+               "lng" : 103.854344
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "2e1db9b1d2980e29bf1fb5457eb169dada793538",
+         "name" : "The Long Bar",
+         "photos" : [
+            {
+               "height" : 1936,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/115525920058821767723\"\u003eMasaru Sato\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAAfLQ4OZtrFp0fyE2SFJT-I9vQKZUtHf42sf-zGd1-sYEiZw3DFf56ARsSo6WRxopVG6NJXdjI3q2ioD1h65ZWpWCTvagGFN8N6U8OM3qYcrv4KQ7724GYkqiGiemPNZNuKrJQP9NQLlZ0Vy722d9kqhIQbuK0NuF5HJMIlJjNg9uIpxoUvNvuXenpIINmBvNGvdRU-0h8_94",
+               "width" : 1936
+            }
+         ],
+         "place_id" : "ChIJr3wRuKUZ2jER6s2v4lk2y8o",
+         "rating" : 4,
+         "reference" : "CmRgAAAAusmZ9Xne6VTTGMYYf-cTyN828r3FI-lY6EC9SMXGjvbNTfYzeu961-wu1hdEZdzJ8m3qqxnDuYVBmAibcZlngdzdu5m84jwJrYm6soph3VELEwH30L8k5wRcU2y2AzPrEhAiDDu16c0TEVWnkVEVw8yLGhSyoTDgOXqmk_KXTm-Gxwj1uSZbzg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "1 Beach Rd"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.285311,
+               "lng" : 103.853964
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "126acd4bfdbb08f9295aa73b728fbebb94ce26b6",
+         "name" : "The Pelican Seafood Bar & Grill",
+         "photos" : [
+            {
+               "height" : 848,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAAu53uX_odnDwfNJtFY3jwPrrjFymB2WwwyLdBRiWNFZyCrVus0MZcL59NUgM45gtoHxRrKEN1MgqjSLuyKBe64ik7mgl8oIRpz03WXBmvz24rsnkpFnmREG8dSnvFqMhbKaIhOXQk84K-BWa22k0dxIQgnLOxPBm1rM64iKVzWzyqBoUZah-BTv3sxQHkLeQeQJBckWjaR4",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJu1_G5ggZ2jERSzonptXKY68",
+         "rating" : 3.9,
+         "reference" : "CoQBcwAAABdTTiVg2jfT6cmt1DA6dllngn85cMeYRsWnUGvmxzB5DlT0gY3f3xh9SbFeb9o8ZsDRTyJajwSj9FoH1ySdX2N0WZLHiaKJXgAHKaQgKr1KdVfSh8XWoB7wps6KDK1aDkZAbSyuvVE_uTXjelTfv4WCnpK8JNx2fLARnI5FMEM6EhCPRKpkm-MU_Ze4ZZxFt-XPGhTAmPNbfW7d1ToH8iDx5pKAMDVRgg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1 Fullerton Rd"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.29109,
+               "lng" : 103.857626
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "be7a234b9b15bd7d85da44e87e5e1b61534671fa",
+         "name" : "Axis Bar and Lounge (inside Mandarin Oriental)",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJga9oQqgZ2jERzcgi9jAh00w",
+         "reference" : "CpQBgQAAAEw1nupwTodk6NAIKbTbHB5kwllPQGkj-X5G_E6wTZiS8mu5Olm3T_VVxyU9zltxgjCLlINA8NUEK9JRc7m7TLAq77_pHlJG4ZIqdoA1Q4PnIfGd2FhGbtwq7YjgsRz_B305R-PeHFuPBWTz9k6d6Q9_E2j-wdfTif9Cb56EKfCPe2C7HoQ69DtFbp2tL3MaDRIQsdoyXt9ZHTx_MZFlur98JxoUehy0Fba9R5oS6LXS7JZVDVOyWYc",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "6 Raffles Blvd, Marina Square, Singapore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.283354,
+               "lng" : 103.848955
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "58a341cbc4b8dcf299b301ce00b2b5112b824438",
+         "name" : "Oosters Belgian Brasserie",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 848,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAovdzul6dzT5kC0MmftGSVQ8zMdFE6DCyWFWC5dtG50CMjQQ2fKMY5f4bPtIu_4Gpnrgy-QTblydBzF8SROvrpP4c08Ezv566W5BTTvRADqX1OwbiPdHL6RcX71w-FwlffbIaullb1lAmEiGY25nbAxIQwddST_a1gVk7iRNgjMo14hoUI02toR1R-NsOg81-PFZAWYr2rIw",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJkaQybQwZ2jER8Lnp1zwoOew",
+         "reference" : "CnRtAAAAB-ZlORMDmj3BVmlI7G9IaR5plWdIgGirpMvIr8wyY43EPWvuynwilyoVqm5pxQrllAsCWiT5Sr7oydxgOqAnTspTxHKhUJg8nBLeo4AhQeQAHaj0pYIBgYmvk3M88tEw0dA9wjBC6sUH6Z1d7NRlNxIQ0zRXfXkCrbKZ7x9aNO3sdRoUMi03sgGKEdJe_WR85zein_Hiu1E",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "25 Church Street, Capital Square 3"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.291217,
+               "lng" : 103.840779
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6fdcc92b755e2c0634d03fb71785e9fd24b21dd5",
+         "name" : "Brussels Sprouts",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 459,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/101400582186233418524\"\u003e이종필\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAA421d45luMs9vizo1fsheXz6d3IIAgI4vxYGvHut3uBveIhpVPO6KEKcOdny0Betn1ktggFha6aikwo1qt9bpD1hBMMi5dmtVQfWLrQyeje69Y05vWRAavotO_A-kJPbf6Vkyc4LuUUAY22IdCdvfahIQDu5-yYfNN1i3yWurIok4OxoUUr3L1LXeYNC4h8odgHv4JWQJ5E8",
+               "width" : 816
+            }
+         ],
+         "place_id" : "ChIJvzBNXp4Z2jERzYo8lue3lSo",
+         "rating" : 3.9,
+         "reference" : "CnRjAAAAulOG48fr18_nQWxEm3wcNFU0YDjARtVeXp3VO7FHLwe9ip849WOcmuV1JCAQvq2FazCaokqdPwau__AmFs7DDOVBWZcQQ4WZxhCGOWTwluJDmjfQnXPo6tHvCi0dYkilK__WRXjtpbqGNL4hequVCxIQqT5T0qW8exI5eKvs2ICb7RoUX68scdq5zF9rmToS6bQdmv4SOAc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "80 Mohammed sultan road, #01-12 The Pier@ robertson, Mohamed Sultan Road, Singapore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.278223,
+               "lng" : 103.845583
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "e85eace2813fd68277e773e928361c4c9529f17c",
+         "name" : "Artery Bar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 249,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAT8fNB2KUgd1Rr5XW-OXq_uzvPZrLGV0uAwEKX8juv4bOThSVzz5hAM5UZGmKpL9WHVd-Gv5S__C6A4zS7oO2n2XJw9Y9Hoio57RPwiDJTdTvP-m1ndVwPvAWq_Sz4osOkJTJdeFnETA1fZYCircL7hIQFRS_7AiJbgnpO0NJYtFS7hoUTNK0rpXyZHBMH6xgAOIe9gNOURQ",
+               "width" : 387
+            }
+         ],
+         "place_id" : "ChIJqStVxBIZ2jERxvUpji41u6c",
+         "reference" : "CmReAAAA_cevcZt64bRVmPjSuGEdSTpgNiby-EB-MaJGSnWlQnXD0FO9Jq-pr8jyakjVuhiDvohZ5pSRoiqhIdNTrln1pRyxN1DgdCwnzOWlmSxvpAnaWWDrCv9N7NJA2lwfRTs7EhBLOJo0FAU0UEva-SmWqxIDGhTodb6j7yyZ-CMkIk3BjtX69aiIvQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "28 Maxwell Rd"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.281243,
+               "lng" : 103.85276
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f57328ecf5ad5511c8de3c619983f5cc036dbbe6",
+         "name" : "Rocks Urban Grill + Bar",
+         "place_id" : "ChIJlcF4Rw4Z2jERXzAQjpLMCfA",
+         "reference" : "CnRrAAAAYXgM5ZwNaZpIJK35jOla1vyglKMSSAWL2QXDnlcTxRpqHR6_ECIFU9NteihKoqSI72Vn_5xmocFjGOaeRlgLaC8sTDewciMdipePC4tYuACAoRsnWupa7m4DYhwefoglE-CKSAkO9qpRYOY6NjxH2BIQsrj2ANFbnRiaVYIgVmM7zBoUmUCf90QAAvPiXhLa2B1YDv9GVsU",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "2 Marina Boulevard, Singapore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.291398,
+               "lng" : 103.844303
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "b937e878fe8e2034511bcf1bd092b4f99ce97100",
+         "name" : "Attica",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 964,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBfAAAAMS6j54rJMVIca1tNqzGgTQLHnFzXXVjjs8arVgJrD31i4lp6kKkd31cvvaHF8aCyfnbxuhH9OyuE9BWP65AxLJtLlECE1c0EHb910AWaej4Fb-i85-YltXZuHdT4IA3eWGOkg47gPDKQ7cIWpWvrLvSx_Gb0lLZiJQxfzUUu0cfEhBrqWc7ysvUE09dOB4PvihmGhRgrVRY9zKLI6tfJR3aS01_-rqVUg",
+               "width" : 964
+            }
+         ],
+         "place_id" : "ChIJKSw8ep8Z2jERatbahQ-7450",
+         "rating" : 3.6,
+         "reference" : "CmRaAAAAqK-Mbtze5pG6eBfJpi8vexerIo2nBPG7yolTI7saUIoWtCSB3e1us9rnNE2ncchMNs3lq9AtjepsGox9e8kIminWTuTGoicndwX3Grxl-RWFcXGRLBK0cvMQN33nr0NtEhD0QXZEUgpnLUGinTDm2Q82GhTEER5dxTzhOGqjFS8aFUgS3b4DgA",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "3A River Valley Rd, #01- 03 Clarke Quay"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.291381,
+               "lng" : 103.845635
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "77f999ee5f953dbbfe00f74c16582a723119d59a",
+         "name" : "Beer Market",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA7lV-fq8kAmoC-rKO1MlhhYlKxJb4raqvVghR6Ko7ijB_w-VHhccsqKqADCPzb1bWbmMprwT88qFtRLTgVS-WxnP_Ylse6LXIXCxt4InmXwZgDWLAI7uyP95o4vIyQqq-o5DUo6PhyyGNAwyD7quQdhIQb6yv-T1VRpqKSyaufc9h9hoU4-fnYRFOWjNx6s8V8-oemCrjnQw",
+               "width" : 817
+            }
+         ],
+         "place_id" : "ChIJIfvyO6AZ2jERGyfgZphh3mI",
+         "rating" : 3.6,
+         "reference" : "CmReAAAAS3mup9XQCAVWvUNFi9zqUQ4XA_hcUNkvC4Ds9IgHztWFVZs4UJdPFKUMGkArIU1qHbjUSdOwlBQJWphwHNYCu14cLYOCtKPLg6EKEGOuOTDDTh0ulw7tQOZOx6rdZLfrEhBVHiXJa0hAep9b0goFef4kGhQ3J-6BMmtszZ6Kj0sVeRvuGDWffw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "3B River Valley Road, #01-17/02-02 Clarke Quay"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.290086,
+               "lng" : 103.839168
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "6cd542359fa72f52ce6d6fce54a1b61b3b9a1be7",
+         "name" : "Oyster Bar & Grill wharf",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA3EeFMZOP3oATrsOQHQdMtp8oDC2SCQJKQz_6KzOUifJY5w4mWv0GOOO1_7xVCzgnnwYPg0VV-hJ6iJWcer4BIXGAL7nMYYqhRwif6xQfJ6b65aw4mlRP7RpH3HkEuILT0oU5IW7K_iI8jLFYGwu6OxIQPtKUchqFAphn4LX7WoyZfhoUDMyyRTV_QC1oJYVdWXkDaORLciM",
+               "width" : 1365
+            }
+         ],
+         "place_id" : "ChIJ6chOCp4Z2jERRaXqlQW9ycM",
+         "rating" : 4.5,
+         "reference" : "CnRsAAAAaAzeI1uCqJ6WIXtKXV92Blwk6QL8n1WneJbNhiScahZ0EgcGFimHZ91soXKdcA4uXrYRSNAhRKxVZW_dLlpzCe5fQ8RB6sxHaHD4vLFD9xc4Wkc5d1EaqKy8fL7kGWd3EkfY-lORd1hUC0Se9v1RXBIQPcESV2kuDNjpyilmqaphIxoUxholWjNpggaMzm0cyCYj7SJwvd8",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "60 Robertson Quay, #01-01 The Quayside"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.27952,
+               "lng" : 103.842317
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "4395985f3beeece2064cc8aa8ce8afc528c0a38b",
+         "name" : "Taboo Cafe & Bar",
+         "place_id" : "ChIJpQPle20Z2jERUjJ0P_L-UUQ",
+         "rating" : 3.9,
+         "reference" : "CnRjAAAAhM0JEcptRgelbakz_DLH2CN69Jch7_Yvq24mEwutCcZl287_qSh2Jz_GQpO4BhinITfKiNF5O1DwdZIdsy_cymWnOYw-Bz5jIuj3i8YSMC4Gfig_vGF1i27HY6KK-yQCd55f_80aBfaJGJYlMLeFDhIQHeYAsxK2D9_E_NLXJv2W7RoUBPlPk1mWxrGAwEkI-2dBX_gXTYs",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "65 Neil Road, Singapore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.289315,
+               "lng" : 103.844156
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f3d971b83c1bd3686e00a42d7822b8aec43caef6",
+         "name" : "Brewerkz",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 602,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA3Zk8i3OaPaBVoTaKB8LccyM8Tpm2L7sxYrQi74db5OX7ycRePK9LsRv7FT1bBWJUNeNthcFJBjRbHMN595_Iuj6BjPQ0LtmMy2DkDhMgU6gY3dv4hgEQBM8-V3QrHjlTzwlWJgmWKmQCJ1dg3D-2dhIQm3kR1YWvqC9fAKJo_p-a7BoUt4VT8To8CvjumXql9k5fYVaTXtI",
+               "width" : 401
+            }
+         ],
+         "place_id" : "ChIJIyvw_J8Z2jER0Iw_dR3DJMM",
+         "rating" : 4.2,
+         "reference" : "CmRcAAAAKB8io7B2T0997HDS6GoUVOoEEgCwyjDifjPuJL9KmZCrf8F_NGbJawaZ7eWV8nRY6b7gszB90jpSrMGe2Dj6BQatuQIAVRiyn4foFTB8pj6BwZqTTWW8P1BHiEcJHkA4EhDb3lxhMHL3RIBDBWvtO4ZqGhTXkESsfY1DA_gC_SVmujW9DgdaWg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "30 Merchant Road, #01-05/06 Riverside Point"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.289642,
+               "lng" : 103.838812
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "27063c1ce905ce463ca31a48c48c0876e0071f85",
+         "name" : "Boomarang",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 402,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAARfRpNSCnxca7rYU5_hCFJ72SAOHYLl2jBXL0h3VSgEpRNaW9xIKHcd9-Msj2hXAIp4Z7hA0NQzsbPsZmUxt_HPfHrIi-9b-Pm5WIeEpxdl15pUJQcRe6lspTpL6mX21L6pt3Z1Q8Ou-p4JiO8U9x9xIQwGoDetQkRmhL69vVGRXbBRoUCEwYsPyy2jSM_700Vm9_BKkIX0A",
+               "width" : 604
+            }
+         ],
+         "place_id" : "ChIJYR6HCJ4Z2jERxLqTs3bEj_Q",
+         "rating" : 3.7,
+         "reference" : "CmRdAAAA6-KMKKn4DjQzUyqkgOlQz55dy15dnb6EWthU3aOYnS5NrRnhH7_eUhGWqcKFrqGNm-Abwq8ttFqYqNimh0B0JYVgghrJih8DGcrYsiIcxCkQ9RMbHGhaAtfsn79A6qOZEhAcro8myJi0LlMg6eZ-pxbAGhS2BBulcuuHx1hiKxEfH_P8WB1amw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "60 Robertson Quay, #01-15 The Quayside"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.301471,
+               "lng" : 103.839082
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "add206e5578544e5b99cb7894e88e079421b04f2",
+         "name" : "Acid Bar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1692,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBfQAAAGkOpDKTfliEDPaPJThtjRX0WJSDMYk2xBVQRVTNbeoH19o1iuD15mCxcVoqwBwVXmb0o2-n8WMiHrhKfa-D67msjrptsltM84ZyUFQ51wau5SRrmoVv5zjXWOdhVuaHjsQxvv2uTFxRekvGzC91xTd2FIIFtWy-pS-8zi5-WbxAEhAUQDiazJmo8wS8CGuW9xO4GhROp1FrouhPGKqJH2w-W2vGHn7Blg",
+               "width" : 1685
+            }
+         ],
+         "place_id" : "ChIJRZ1c0JYZ2jER3_UBKFcKgXA",
+         "rating" : 4,
+         "reference" : "CmRbAAAA1D0X3S43EmORgdorfV4FhNM1tIdt2TkdCbeDpUIAuQ5Mq5RqHuuR5TruCnfAiMaZCcNZp41jHXg0dsTVdKdGUbq-UkZaooyyQHTKTV0spYi1StzyUyFsEGPC5NuUPSvfEhDLopZIDKb92nKg7gSTn_yPGhQ-ZKC3PD4LhOL3IPYnjynlFLSCIQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "180 Orchard Road"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.29234,
+               "lng" : 103.849001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "301772e62125b91c00f0ba3c23b8d1f79dd78e48",
+         "name" : "Bacchanalia",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1180,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA6Re9_bhG0ThcFyHLu2QbTFB54Q-NK1fVhv1OPqQfmWvfa58OmwPBFSYuVewMJTztWXkhDl_FHHBKIEJVig5qJR5JeDMDOZogsTHEuxpUTBsukyE-tAcgSl1tPx2bSGWIpEuB6WTs-yDUjyOR-4VO4RIQ2IeRcaVN5j-D9utARZNsfxoU4rmLohI2swjKHOyKfv_NvLlYAas",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJk9DLFaEZ2jERNKYtlxp2w50",
+         "reference" : "CmRfAAAAINDM7EzhZzamS3J-DOOE53W14IgxuVcGgydJFL7idwStFQ0gkfvx1IBjQpFpP13m4ELOE0RIABQg21_9GcjSGxnTv1I68bzFy55Zr4vp9ysqvy3wKtf-KBMTcK4tADD1EhBuIK2RymF6plI7PhHxk9NyGhTvQ0OGDjFCqmVLBI_0kBCZE95ouQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "23A Coleman St"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.280805,
+               "lng" : 103.84576
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "f68886aca0a504ad24b9e081f5e3977146b444c5",
+         "name" : "ying yang - rooftop bar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 533,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAOPIxwc1MDRWk3p1fuJZIbDS93QJU7PFPw-37_Cr8d7A8jDfedhSmagMA3vFy-ncwjkya2fL_ipV-2j1mYn7Ifs-Ds6Bg0PcGWyeEAdjsD27XZBOXLVvX-bFUmmgSskrVuWPORrffUuSzGgNrCAzZWBIQ0a6DaDdpgo43GbkL3louSxoUMvCg_4m6d4YAj2SC9a-bT2sfySs",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJP3QURw0Z2jERpKFj671kEwg",
+         "rating" : 3.9,
+         "reference" : "CnRqAAAAw8MqDSPoQ-Z9Z72AnNNSQFZFNzJVI_7Ev6QjGZ8BktRl-OPGDZvNOgX2jrXUAP9lZdfQpRN3uUA-4X-_M9emxmjZlyk4HtjGBIg2nrsLljmC32LGa3i2sRfxRb71kbw6QPtPw1Zd-v1UbMh9_B724xIQyHcz0VjqoAn-aOGRvvKj9hoUIUS2B5J1OFkZ1p3Vhgyg2qsm0mQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "28 Ann Siang Rd"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.291259,
+               "lng" : 103.845532
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "cd859c1e69d49d5fc90740c131cbe0a14e6e400d",
+         "name" : "Shanghai Dolly",
+         "photos" : [
+            {
+               "height" : 1265,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/118106009424271523287\"\u003eTranthaongan Tranthaongan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAAr7VPGDoV_SbF8Gwb44RqdNvpXPeM9ppuZm1nF7Nt8TxBaq87s3Q0KzkK3NtXl5Z-xtmr8GoPwuuUdY9hIwOp8k2e4EGI95QHYuQ5nk9uu5Y3N7of4RvfU3ZcrLF-EtudcX3JdEWJSOjyLcHEV8DIbBIQcmYsKs8lGtgsJ4sGyfiSuxoUUmehHwnozg77hT3CQ6usm6XZ5Qg",
+               "width" : 949
+            }
+         ],
+         "place_id" : "ChIJrxFeMKAZ2jER3obrXjTKv4U",
+         "reference" : "CnRiAAAAl1KKCp422EC93UeFm0q6NZ5ZY6DpBPi3ssynDop5odAM8LeIiJ8TDGBDkwdXQ2Vu6X6-BcJ-lRtw1Ee5u7ewUy7yP1pNnYtqiqqb7p084GiUj8TqdoYxvL6Twj7MoQJw6IakLVTwW7gAj1x9ksTRfBIQ7zbXG1T6Bx9m1IePqw8SVxoUuXvI9jIYWK1LrmtMwNpEwo22vP0",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "3B River Valley Road, Singapore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.281398,
+               "lng" : 103.845508
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "3f6f6d20cbda54ff32e20158ea374d481773bdbf",
+         "name" : "Gem Bar & Lounge",
+         "place_id" : "ChIJPaRYMA0Z2jERXXnBI_TndgY",
+         "reference" : "CnRjAAAApNxxVyCKfZXmmAkRmvfZUny_b2lSed3pCBYFUicFfC0Nv5UC-v0SJvDR6bnaqBTm7KpNP03p8WKQhHh5PDuh5HKvhOUrrfFpKEDD2ZPTw--P3oDlbozE0lqQ5cbE8y-cud2JetEE0dYAKhSbgsgMiRIQgh4bMyYH0l28hZiGTD73zRoUIvHtyIV83sqNmWWzG_r6ZMYyF5A",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "10 Ann Siang Hill, Singapore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.294315,
+               "lng" : 103.853691
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "9770bcab1bd2126c214f6e7476ca319e47ed4691",
+         "name" : "Anti:Dote",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJZ9ocfqYZ2jERJNsj5nhUxsM",
+         "reference" : "CmRdAAAAeCUeJr7-ffICigEObzhObREWogga3aweHVZunBdi6uX6dHjby24ytOtCGVtk122HYaZ0x-QX60yPhLCwgfIm9e8_TVK3mwaBtW0d0joyOQI_PpRE6XOIkrY0a_nmpIiVEhCESH1_ummlKZtZZeB5xaENGhQbUWMxLW_N_ACcEyAv7JwVcCCBTA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "80 Bras Basah Road, Level 1, Fairmont"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.281572,
+               "lng" : 103.845413
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7df4a3810c0280551cf3e044326a504272e6b2cb",
+         "name" : "Beaujolais",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/116279618838470532970\"\u003eBeaujolais Beaujolais\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAAh4OQWo2235wp_d22fhfEj8p8O-MnPZJ8_QRxRayX433AS8obeHBslJVZkquV177jlvuLAA85lIrcxworqtiEoI38OvbmnU2CDdLJ-xAo7i8Q13UJfG3hE4mbz-isUNwW_mNdvhTFVrk3Uw4ZDVLo_BIQGRQidjGb93210M5hErciTxoUtWu60bgB8vfajHwr4zd-gBfX7pw",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJvfVMLg0Z2jERkFMLgRq2diw",
+         "reference" : "CmRdAAAAk-GCxeR9HrXVs_Il15GqGO2T4kkLXmyiXy55DwpRfLNl62qcX9Ov1fQTfWBpvVDHgMHrdl67Cc5YqeLkd3r5cTH3fkuMEUfrBkoOU5VToXIvwxbJWZ7ONuPz_GSoI9VEEhAlf9IkGqaUsEg0dtiwcc3_GhSbaNJUgSpEEZ0lyWUGF58ozGuj-A",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "1 Ann Siang Hill, Singapore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.288531,
+               "lng" : 103.842323
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "f2dfb627f7fa22c86133c3ab997d0c9dd56246ee",
+         "name" : "Alchemy Bistro Singapore",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAJzlmJ1WsJZbwMdl8VfOvnTvcJK8l9aG0ell3IOgbfQd44FWubiZXpqO_bw88AsRD4ERs8ozptymvDsniI4NwtKiuJJ57Lf1PzNQbVUscUipUpUnM01az--1l6Y1Z8vtwYcgjHISUOnx-Sq9Yw4VqARIQpPmwpm_ePp9jqf7lKtGn6hoUVMWmsdpsBU9HuWh5Cz3ySDwEVGQ",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ2eBfe3UZ2jER4ADjyyYhU28",
+         "reference" : "CnRrAAAAu902GVOXBfCBc63VwLx9bIWPKOIC10YpJyLAqioh5NP457JeeMj4vXn0MvCc-ZYfneUpytTltsTtTjMZPBVFqIfqNYACKtqRaF0fFcA1_EX-OutvMJtNwimuXMeu19QNSa-NypJgY-EDMwhuYA07uhIQALQsYdGtzja-c7cR6Ln4IRoU992OMnj6zZX_RA6EXWhjDMM3N4g",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "3 Magazine Rd, #01-03 Central Mall"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.29091,
+               "lng" : 103.8457
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7e1abb0327c991ee0dff967c07668e991ef2b9bd",
+         "name" : "The Singapore Sling Boutique",
+         "place_id" : "ChIJrxFeMKAZ2jERN1bPGl71fQc",
+         "reference" : "CnRvAAAAe2lLVq_Y5JAAbbAb5F0FJ0q54b-HGHYNza5XZOuCjEEa9r1R5LMle-fZYKwVPWeiKKYdSpmw9hFVcQcW4GDFQXROiuK2lEzekPA2KHTql55PPJv2NGzQSNtMnEYonlQ-11qEl2YGpTFcwDVhOJL_WhIQKSVBMJzfcX1YgV6OuPk5nBoUh5qlKerpcJFyxVDKQP06i1ZFR-g",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "3B River Valley Road, Singapore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.280577,
+               "lng" : 103.846197
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "79a82e971194c3739d305a16a151da189726d22a",
+         "name" : "PS.Cafe at Ann Siang Hill Park",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1096,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAArtODWYbRvYront_4PuouYItPpM5_9b4ynzxNiXAaiS9InFMDgfFDZa834n-9hQxS56cI2lVMM-_My-U4AsKezEr3ZyI9453rHgYs8u6mdJkKnHI3BkH2YtsF6HIr7xhFj-NYPcOteug56He1zxZ86hIQBFDGFybiSY5H2C7DhSAsPxoUDGwIIZo-kV91KMfSjuhrH3vd1cM",
+               "width" : 1096
+            }
+         ],
+         "place_id" : "ChIJ_X6lQg0Z2jERB1vp9KEXRdg",
+         "rating" : 4.4,
+         "reference" : "CoQBcgAAAD9cJ7N67FkanguFARRiRhprKw8Wo4K9AXTsqIbgWx1t2yi_v5LhVJ_87H5R-sM-5LNMhNVLfM8VhWNHBpzLQe_eo5YajZ7DKrgldLzD-ytwyf9tgX7AStWMEB9s8DzkHOWpMms07ospKSOMFqhPD_Vc9CqfwSUILxAPNSlvMqffEhDmYjv8Uk9ew9SE78JgKfeBGhSuPe_fmbBlfE9RtdcXCbkiBNsgJA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "45 Ann Siang Road"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.291135,
+               "lng" : 103.845919
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "66af18d87f4237b2e39add503a196770a73f0e89",
+         "name" : "Fern & Kiwi - Bar & Eatery",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 854,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA2aGPZpOYhXwU0kVqO_gwTMvrUxYTeN2xdLDgT2D4YzVNPw1jBnOdxyjRXhNY1Nz7yuJCVSn96rmQkFAf-AA5xueqgeoA5tzNtGl0ktSX4Ve0CElivOLx5M2zcs6Rh-V02uR1wGXAScNMoIl4B_988RIQR9nLQAVuWNvSfQ3G4eUhwxoUVnTWUtsmQ4TIMLa3SdKv2ZVa3IA",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJj3YBNKAZ2jERkh5XE1uNgQg",
+         "rating" : 3.3,
+         "reference" : "CnRtAAAAXjymU6Yp78lnWQns49XCkILepD0ku6G_qaovM6qAG0chA_QW2SOddVhM3vRFaxpGC3sOsxRI0G37P-tgCgasClIZAI50j506tv-mLExE66zvIPmoGF2O5jg8nRyiaa8paC6I0wOTIrmYPY2lUo8lhRIQJVKn2cdyETTjcI2ksep7PBoUxtHmMoAOl-uzkMIsXFvSH-R1H1A",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "3C River Valley Road, #01-02/03 The Cannery, Clarke Quay"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.29308,
+               "lng" : 103.84182
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "15d0c3144ee10d58551942a6dfe22f8e8dab6fe0",
+         "name" : "Coffee Bar K",
+         "place_id" : "ChIJc1xp2J4Z2jERCFlup410d7g",
+         "reference" : "CmRgAAAAUC6TKcMwNR27acfC6uITz7qKNmghTQ8k2OeFpdw3fXZC5Yodik1CuQvDQefoigh4LaCBcdvX7Gr_MdTirknSs_vSQOXkVN20_Vy1EMLAYxvgYRa945lKa-b4QscPKYnTEhDKHH0vaPajbmIuBL3PBzA1GhT_13nft6QKJ4xd9bja7CbI6ghqHw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "bar", "food", "establishment" ],
+         "vicinity" : "207 River Valley Road, Singapore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.277639,
+               "lng" : 103.844425
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "2990bc24b673be3a81f24e1e08d0110efeecf26c",
+         "name" : "Café Gavroche",
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAw75OYE9AYGnASn-Ux1_S7nVZdXI0MtCgWU8Y4McZj-ERaCKRctL2E4-ZeWsuHQ80pOJhKnF_c6iDwDm8_-78rcRRlZPRqJBhmtBJPs3aCeF7DtqHDIOdxfIyR1b5nMwE0oqS1obo7ZFEjV5A6RP95BIQ9HzNeqg8mtmQh2eww_u3SRoUcNUOU7hMs7DGbF3GymaSXKe1RUc",
+               "width" : 280
+            }
+         ],
+         "place_id" : "ChIJMzQkKW0Z2jERs0MaLMhpcTI",
+         "reference" : "CnRhAAAANLEBDBMbSgIBsVVluv6DDcit4ABHMo7fG2s7ftKULhxopsPhQ2-yTrUJIB1BNaCqxp9WuxtCWgv1eXh85g7pH-Ngy2PMkAO6Ac0BFJZvZpTR1oGpl_i_eRsgyDM_2xeNy-Xjlnnij1Em3fWxqxhatBIQoSjMw4FRFZmMKf-ynxAeehoUMHyjS1yHtSdZ9pHpg83BV6kELnw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "69 Tras St"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.287255,
+               "lng" : 103.851413
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "4801016102d2a3fe0d9b819c26b1edf7066c544e",
+         "name" : "Bar Opiume",
+         "place_id" : "ChIJoZOhmQkZ2jER0PpKSl2pPVI",
+         "reference" : "CmRdAAAAMTAWmcjlGqc7YALtCBo6Aih3iAl-usFQy-QQQmyVVuA8Yz6YD3CVWCgLCaFIKmUMVSGaIWc3X-VZqX7BTcM4g41B5gHLuChaMgnxVgsaQMvzsUZuzq3ZGyD76oRsmk11EhBgMZBiUfUosssOFdYiDeaeGhQVzEOasvVE5tpmSkSCRV2FNGYT7A",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "1 Empress Place, Asian Civilisations Museum, Singapore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.300711,
+               "lng" : 103.837924
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "0806121af05ea79770bad55fb7a09e927cfbafdd",
+         "name" : "Bedrock Bar & Grill",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 533,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAqkedP59_NBSZMKmdK6JXTGgFNiAWVc0lTwDTDx8j83lBbfeZzutDQlMMP7xsWd9RUcYa4qr6Z0IgLmURKrpi3sqOqQEbyjmCqUmRUeSbtELAAniaBOGXaMgdjVxU6S6j9JeI-SxSypHGLuSlIVLuXxIQQkV2iXWAlGqukLrWw8cJmRoU9BbykvgsOWcCtvjXTW7JDYkwXOE",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJtdxQJ5EZ2jER24raRnr81lg",
+         "rating" : 3.9,
+         "reference" : "CnRmAAAAF6YnaD9Mh_y5oScm0Obutrr5azFJsNQv1JBZZiC7hWz5vwyGyTWQ3ilKfBQt5DSZd8i8LDYeHCikcJkU26xX90oaWc-ulCgXX7vPugpuDQDRyTDZUsMi2cYExIg69wAQsGy9pnu516FONSdOItlajBIQ-djz6jmNuPkhG0bjx33V5BoU7pZe4WcOXBTmmROaFOLnjSM4Ty8",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "96 Somerset Road, #01-05 Pan Pacific Serviced Suites Orchard"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.2775,
+               "lng" : 103.8475
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "599545969992d854c62a10d49d30c7921f866364",
+         "name" : "Urban Fairways",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 694,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAe8ZLK2ryEPkRuKBGUn7CRwEA1oZ8fVRK-arGdNRY_sNBrD-fGem0m_NW2Lbuogk3kQB-JRCNMLq-BmkR_Vj3vyLnPqocfk40i0nVAkoqCnoGv9DAU6AVKBjnJL1M8c_dcCeXW1AkdhXr_3M9aB2mhRIQ8LqbfCDsErAOmKc0-OQ8MRoU0DEgmxfvlbhWrg2A6EHwI7DETpE",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJPWWwVRIZ2jERugGnQt9qlvw",
+         "rating" : 4.3,
+         "reference" : "CnRiAAAAHqlJ9O4jOezXzUQs5MDUaLkWOrLyGFa7KoiNgiWd8xFuPLCFpDkMZFa4OatdQ-s6hJGZbVqQrora_BOCHIaPr7Z-QEZpHOj4a1Qrubsmz1N3kIDvsUdWqIWAWRhY-7YRDYXejwpoSFw1B1DLOHL3QRIQWCMX1weV-RJQcGR9tbUR9xoUOOCswZwTrYKDlm8rR1avhqfKG6I",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "bar", "food", "establishment" ],
+         "vicinity" : "168 Robinson Rd"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.301183,
+               "lng" : 103.838058
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c65c59950985cf6f4bdf2f4f204313139900915a",
+         "name" : "JiBiru Craft Beer Bar",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAArHva7sowtOQvdYG0bi3e4K-BRKs71R4G0SilKPQJUtIC4a5gOiVDW4RPnhfU_9NRoS1YKa9sO_Rr5CWwQk2WzdWFSVHLbhtm01BUKCmJ8hJqC_Nx61rLDV32oZG8xqDKzUZDVgHzWj6SEbzNu8cJxBIQPAVvulMJpu4_1_dh99aliRoUwW6vJGUNcFItW_IEwytLoMgeihE",
+               "width" : 945
+            }
+         ],
+         "place_id" : "ChIJC6FmJpEZ2jERZMcROEGMZ0A",
+         "rating" : 4.7,
+         "reference" : "CnRoAAAAKL8ihOkSdAqIdKjq0LcqKakGxMQUsa8dqhFuytMzNB2Kpavk0ordhZ3Hqrclq8QIcyL3GNiV4m954JQdBkZu6U3J5b5i3uiFGZ116J7D27ydX3LLl3otyom-SuA4VKZqN3alLUvx0C13GNbbNXDdiRIQW5xSjh0OUo-jsth0Vxjt5xoUwTHCq28qxaDl6PWPpUd29KHR-5w",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "313 Orchard Rd #01-26, Singapore"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.278305,
+               "lng" : 103.841832
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "80aa05dd4e7cb44f36a9cbc6491018778f34a23b",
+         "name" : "in ITALY",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 451,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAAakKtFGRX3yYBD8vXHEcq-swNDVaWfkyP-7X9QyHuyYDpIoGOGur_3IiylAN8XirHqjmI1xpm4zXFG166KvCdOlPmHtzRPf10EBryF_VOZpkQOcIlYCJNUBLp2FacSrk-5Vaeln9ZuQhLwLe7ZxoDRIQRjKse08AzQvOYIJgcCk1MxoUevmCKNkwLtsZtZtlc2uEc0Zyj08",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJheQaCm0Z2jERE-m_08B0YYo",
+         "reference" : "CmRcAAAAnzuYsLuIPhmJtG912qtP4sbpxV6ztSMKsnb6FlcL0b5_3Wt7pE4Z3D_yvCMzy8Atmi5PGivcsvo4B-qFelCthsBsraS8vVKHDjqk7TFX0x3i4DaEp8qVZ2osYiVqTRPfEhDCn0B49VpuC1enKETAdkaZGhQMBQbbk5K4s29nFf-xIgjXNcQ_DQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "38 Craig Rd"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.289905,
+               "lng" : 103.837522
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "761cd3b4b107feb37c0b1255083716290090565c",
+         "name" : "Verre Wine Bar",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 245,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAhSX7BfZjOySmYS0QFciuvSYPhz1NgYfeL9X7HFvTxyufunzxGAq4yJDtfn6IhOAqvRV9ciw_qvS8gK7HyNxYGPNgqQgHP0aa_Ik0XvX6gUVYP8xz_nAAoI6GbRC844oio4aOx-9z0ZUgzgDdGBe3PRIQI5A6L8w3ULy8Kgvk1EiXXhoUEs0sPZh_Ihkg_vZxMylUX69659w",
+               "width" : 515
+            }
+         ],
+         "place_id" : "ChIJTe_Wkp0Z2jER9WAXGkjBYfE",
+         "rating" : 4.6,
+         "reference" : "CnRiAAAAuzFZx71fYWq2kf40vLd1YPfPZasrlOdQqw-A6hSi68mpFO5ifntnTZhLTirajwUqB9wKA7-0bj91FCEofuKpf0S45sQtMrDLbLPAvp85sZ1B7KByTYaOOeO24bBmFQgpe1Ti0Bf7SvQmEG3wuTH9PRIQ6nFTNz0kDU09Wbn1Qt_TqBoUkqU4hMw1AU4unesaMyDwTlVVURA",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "bar", "establishment" ],
+         "vicinity" : "8 Rodyk Street"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.290643,
+               "lng" : 103.844972
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "762b9f1e229fbce4bc44a26cd449937c734d1465",
+         "name" : "Chupitos Shots Bar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJjWudPaAZ2jERdvNZh4ph1JQ",
+         "reference" : "CnRmAAAAYPedXygNrSKQRrpuq7t4OM5YB-AeZg-dJK4_yb-yB36_v_dBgTL0kEV2zC71IlSD4HidqovAS1vyfU_opDsH7XxmvJEO9UoljDRV1SQ0hPS9CAX3iC0Wx_SVTJyK4uwA9EZoaGCtZeagnj3i0gnvlBIQATBrLHb_y2ZyS8ozPbQ5pBoUufQ3qHlJOHz0hfeUrFlVV9tHG4Y",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "3B River Valley Road, Clarke Quay, #01-05"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 1.279694,
+               "lng" : 103.842325
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "1cf087a0ee6cd5a73af5f1216ab0fab12a261b6f",
+         "name" : "ardent's cafe bar",
+         "place_id" : "ChIJycXAfW0Z2jERrFpsSyvMQfQ",
+         "reference" : "CnRlAAAAXnHjA7395QePovM3TbMhnyKFSd9o-gn9qGm3D1_4yjTPxU2JwtjozwR8i52_zIXnkV_2uVeG3NaB1NhgwZNZUv3cyzEtULB3wTshAWDaE76iB0Bd8lztQaBDoq2ea53l3G5nlJlhlX76RwUoe4YmzBIQwCr24qSAGvc7rBCxqr_F0BoU4F-y3_HtjZxkp49JEvcX0oQBPkI",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "80 Neil Rd"
+      }
+   ]
+}

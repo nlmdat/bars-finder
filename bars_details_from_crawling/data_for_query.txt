@@ -1,0 +1,23 @@
+1. Holland Village
+ 
+Selected Location (Approximate)
+Address:1 Lorong Liput, Singapore 277724
+Latitude:1.310873°
+Longitude:103.795144°
+Accuracy:street_address
+Status:200
+
+URL:
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=1.310873,103.795144&radius=5000&keyword=bar&key=AIzaSyDfAftHIyAfoEEHBOjNpfsdoqvBFxVxBCo
+
+
+2. Clarke Quay
+Selected Location (Approximate)
+Address:Clarke Quay, Singapore
+Latitude:1.288477°
+Longitude:103.846756°
+Accuracy:subway_station,train_station,transit_station,establishment
+Status:200
+
+URL:
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=1.288477,103.846756&radius=5000&keyword=bar&key=AIzaSyDfAftHIyAfoEEHBOjNpfsdoqvBFxVxBCo
