@@ -62,4 +62,4 @@ app.use(function(err, req, res, next) {
 console.log("Listening to port " + port);
 
 module.exports = app;
-
+app.listen(port);
