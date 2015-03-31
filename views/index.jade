@@ -1,5 +1,27 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+	div.content
+		div.col-md-4
+			form(action="/", method="get")
+				input(type="text", id="search", name="search", placeholder="address")
+				input(type="submit", value="search")
+			
+			br
+			
+			if results
+				div(id="search-results", class="panel panel-default")
+					div(class="panel-heading")
+						h3(class="panel-title") Search results
+						
+					.ul.listgroup
+						each result in results
+							li.list-group-item
+								span <b>#{result.name}</b>
+								br
+								span Match: 
+								img.logo(src="logos/#{result.team1}")
+								span   -  
+								img.logo(src="logos/#{result.team2}")
+		div.col-md-8(id="map-div")
+			#map-canvas

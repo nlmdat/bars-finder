@@ -1,7 +1,11 @@
 doctype html
 html
-  head
-    title= title
-    link(rel='stylesheet', href='/stylesheets/style.css')
-  body
-    block content
+	head
+		title= title
+		script(type="text/javascript", src="http://code.jquery.com/jquery-2.1.3.min.js")
+		script(type="text/javascript", src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDfAftHIyAfoEEHBOjNpfsdoqvBFxVxBCo")
+		script(type="text/javascript", onload="storeSearchData(#{JSON.stringify(results)});storeSearchQuery(#{JSON.stringify(query)});", src="/scripts/draw.js")
+		link(rel='stylesheet', type='text/css', href='/stylesheets/style.css')
+		link(rel='stylesheet', type='text/css', href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css')
+	body
+		block content
