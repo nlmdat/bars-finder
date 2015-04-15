@@ -1,0 +1,65 @@
+extends layout
+
+block scripts
+	script(type="text/javascript", onload="storeID(#{id});", src="/javascripts/script.js")
+	script(type="text/javascript", src="/javascripts/jquery-ui.min.js")
+	link(rel='stylesheet', type='text/css', href='/stylesheets/jquery-ui.min.css')
+
+block content
+	div.container
+		div.row
+			if !data
+				div.alert.alert-danger Invalid bar id.
+			else
+				div.col-sm-6.col-sm-offset-3
+					div(align="center")
+						h1 Bar details
+					br
+					br
+
+					div.lbl
+						label Name: 
+					div.desc #{data.name}
+					br
+
+					div.lbl
+						label Description:
+					div.desc #{data.description}
+					br
+
+					div.lbl
+						label Address: 
+					div.desc #{data.address}
+					br
+
+					div.lbl
+						label Opening hours: 
+					div.desc #{data.open_hours}
+
+					if data.editable
+						div(align="center")
+							button.btn.btn-default#edit Edit
+					else
+						div(align="center")
+							a(href="/schedule/" + id) View schedule
+
+				div#dialog-form(title="Edit")
+					form
+						div.lbl
+							label Name: 
+						input.text.ui-widget-content.ui-corner-all#name(type="text", name="name", value="#{data.name}")
+						br
+
+						div.lbl
+							label Description:
+						input.text.ui-widget-content.ui-corner-all#description(type="text", name="description", value="#{data.description}")
+						br
+
+						div.lbl
+							label Address: 
+						input.text.ui-widget-content.ui-corner-all#address(type="text", name="address", value="#{data.address}")
+						br
+
+						div.lbl
+							label Opening hours: 
+						input.text.ui-widget-content.ui-corner-all#open_hours(type="text", name="open_hours", value="#{data.open_hours}")

@@ -1,0 +1,27 @@
+extends layout
+
+block content
+
+	div.container
+	
+		div.col-sm-6.col-sm-offset-3
+			h1 Sign Up
+			br
+
+			<!-- show any messages that come back with authentication -->
+			if (message.length > 0)
+				div.alert.alert-danger #{message}
+
+			form(action="/signup", method="post")
+				div.form-group
+					label Username
+					input.form-control(type="text", name="username")
+				div.form-group
+					label Password
+					input.form-control(type="password", name="password")
+
+				button.btn.btn-primary(type="submit") Sign Up
+
+			hr
+			p Have an account?
+			a(href="/login") Log In

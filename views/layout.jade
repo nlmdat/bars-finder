@@ -1,11 +1,78 @@
 doctype html
 html
 	head
-		title= title
-		script(type="text/javascript", src="http://code.jquery.com/jquery-2.1.3.min.js")
-		script(type="text/javascript", src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDfAftHIyAfoEEHBOjNpfsdoqvBFxVxBCo")
-		script(type="text/javascript", onload="storeSearchData(#{JSON.stringify(results)});storeSearchQuery(#{JSON.stringify(query)});", src="/scripts/draw.js")
+		title Bars Finder
+		script(type="text/javascript", src="/javascripts/jquery-2.1.3.min.js")
+		script(type="text/javascript", src="/javascripts/bootstrap.min.js")
 		link(rel='stylesheet', type='text/css', href='/stylesheets/style.css')
-		link(rel='stylesheet', type='text/css', href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css')
+		link(rel='stylesheet', type='text/css', href='/stylesheets/bootstrap.min.css')
+		script(type="text/javascript", src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDfAftHIyAfoEEHBOjNpfsdoqvBFxVxBCo")
+		block scripts
 	body
+		nav.navbar.navbar-default.navbar-fixed-top
+			div.container
+				div.navbar-header
+					a.navbar-brand(href="/") Bars Finder
+				ul.nav.navbar-nav
+					if user
+						if user.is_bar
+							if nav === "home"
+								li.active
+									a(href="/") Home
+							else
+								li
+									a(href="/") Home
+
+							if nav === "bars"
+								li.active
+									a(href="/bars/#{user.id}") Bar details
+							else
+								li
+									a(href="/bars/#{user.id}") Bar details
+							
+							if nav === "schedule"
+								li.active
+									a(href="/schedule/#{user.id}") Schedule
+							else
+								li
+									a(href="/schedule/#{user.id}") Schedule
+						else
+							li.active
+								a(href="/") Home
+				ul.nav.navbar-nav.navbar-right
+					if user
+						li.navbar-text Hi #{user.username}
+						li
+							div.btn-group.navbar-btn
+								form(action="/logout", method="get")
+									button.btn.btn-default Log Out
+					else if !auth
+						li.dropdown
+							div.btn-group.navbar-btn(style="padding-right:5px")
+								button.btn.btn-default.dropdown-toggle(data-toggle="dropdown") Log In
+								div.dropdown-menu
+									form.navbar-form.navbar-right(action="/login", method="post")
+										label Username: 
+										input(id="username_login", type="text", name="username")
+										label Password: 
+										input(id="password_login", type="password", name="password")
+										label Remember Me 
+											input(type="checkbox", name="remember", value="yes")
+										br
+										div(align="center")
+											button.btn.btn-primary(type="submit") Log In
+							div.btn-group.navbar-btn
+								button.btn.btn-default.dropdown-toggle(data-toggle="dropdown") Sign Up
+								div.dropdown-menu
+									form.navbar-form.navbar-right(action="/signup", method="post")
+										label Username:
+										input(id="username_signup", type="text", name="username")
+										label Password:
+										input(id="password_signup", type="password", name="password")
+										br
+										br
+										div(align="center")
+											button.btn.btn-primary(type="submit") Sign Up
+
+
 		block content

@@ -1,0 +1,31 @@
+extends layout
+
+block scripts
+	script(type="text/javascript", onload="storeSearchData(#{JSON.stringify(results)});storeSearchQuery(#{JSON.stringify(query)});", src="/javascripts/draw.js")
+
+block content
+	div.content
+		div.col-md-4
+			form(action="/", method="get")
+				div.controls.form-inline
+					input.form-control(type="text", id="search", name="search", placeholder="address")
+					input.form-control(type="submit", value="search")
+			
+			br
+			
+			if results
+				div(id="search-results", class="panel panel-default")
+					div(class="panel-heading")
+						h3(class="panel-title") Search results
+						
+					.ul.listgroup
+						each result in results
+							li.list-group-item
+								span <b>#{result.name}</b>
+								br
+								span Match: 
+								img.logo(src="logos/#{result.team1}")
+								span   -  
+								img.logo(src="logos/#{result.team2}")
+		div.col-md-8(id="map-div")
+			#map-canvas

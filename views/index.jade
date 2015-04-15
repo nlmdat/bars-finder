@@ -1,11 +1,15 @@
 extends layout
 
+block scripts
+	script(type="text/javascript", onload="storeSearchData(#{JSON.stringify(results)});storeSearchQuery(#{JSON.stringify(query)});", src="/javascripts/draw.js")
+
 block content
 	div.content
 		div.col-md-4
 			form(action="/", method="get")
-				input(type="text", id="search", name="search", placeholder="address")
-				input(type="submit", value="search")
+				div.controls.form-inline
+					input.form-control(type="text", id="search", name="search", placeholder="address")
+					input.form-control(type="submit", value="search")
 			
 			br
 			
@@ -15,13 +19,54 @@ block content
 						h3(class="panel-title") Search results
 						
 					.ul.listgroup
-						each result in results
+						if results
 							li.list-group-item
-								span <b>#{result.name}</b>
+								a(href="/bars/2", target="_blank")
+									b New Asia
+								br
+								br
+								span Match: Roger Federer - Rafael Nadal at 21:00 (Tennis)
+								br
+								a(href="#") Get direction
+
+							li.list-group-item
+								a(href="#", target="_blank")
+									b Crazy Elephant
+								br
 								br
 								span Match: 
-								img.logo(src="logos/#{result.team1}")
+								img.logo(src="logos/#{results[0].team1}")
 								span   -  
-								img.logo(src="logos/#{result.team2}")
+								img.logo(src="logos/#{results[0].team2}")
+								span  at 02:45
+								br
+								a(href="#") Get direction
+
+							li.list-group-item
+								a(href="#", target="_blank")
+									b Barossa
+								br
+								br
+								span Match: 
+								img.logo(src="logos/#{results[2].team1}")
+								span   -  
+								img.logo(src="logos/#{results[2].team2}")
+								span  at 02:45
+								br
+								a(href="#") Get direction
+
+							li.list-group-item
+								a(href="#", target="_blank")
+									b Bar Bar Black Sheep
+								br
+								br
+								span Match: 
+								img.logo(src="logos/#{results[3].team1}")
+								span   -  
+								img.logo(src="logos/#{results[3].team2}")
+								span  at 02:45
+								br
+								a(href="#") Get direction
+
 		div.col-md-8(id="map-div")
 			#map-canvas

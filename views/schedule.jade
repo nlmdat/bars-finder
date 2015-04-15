@@ -1,0 +1,40 @@
+extends layout
+
+block scripts
+	script(type="text/javascript", onload="storeID(#{id});storeSchedule(#{JSON.stringify(data.schedule)})", src="/javascripts/schedule.js")
+	script(type="text/javascript", src="/javascripts/jquery-ui.min.js")
+
+block content
+	div.col-sm-8
+		div(align="center")
+			h1 Schedule
+		br
+		br
+		table#schedules(style="width:100%")
+			tr
+				th.a Wednesday
+				th.a Thursday
+				th.a Friday
+				th.a Saturday
+				th.a Sunday
+				th.a Monday
+				th.a Tuesday
+			tr
+				td#td0
+				td#td1
+				td#td2
+				td#td3
+				td#td4
+				td#td5
+				td#td6
+
+	if data.editable
+		div.col-sm-4
+			div(align="center")
+				h1 Upcoming matches
+			br
+			br
+			table#matches(style="width:100%")
+				tr
+					th.b Match
+					th.b Time

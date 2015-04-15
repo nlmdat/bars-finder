@@ -55,7 +55,7 @@ function updateLocation() {
 				map.setCenter(results.results[0].geometry.location);
 				var marker = new google.maps.Marker({
 					map: map,
-					position: results.results[0].geometry.location,
+					position: results.results[0].geometry.location
 				});
 			}
 		}
@@ -64,7 +64,7 @@ function updateLocation() {
 
 $(function() {
 	$("#search").val(searchQuery);
-	setMapOptions(1.2929, 103.7701, 16);
+	setMapOptions(1.2929, 103.7701, 13);
 	map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
 	updateLocation();
 	drawResults();

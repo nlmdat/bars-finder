@@ -1,0 +1,44 @@
+create table users(id serial primary key, username varchar(40) not null, password varchar(255) not null);
+create table bars(id integer primary key, username varchar(40) not null, name varchar(255), description varchar(1000), address varchar(255), open_hours varchar(255));
+create table schedules(id integer primary key, schedule text);
+
+grant select, insert, update, delete on table users, bars, schedules to cp3101b;
+grant usage, select on sequence users_id_seq to cp3101b;
+
+
+
+
+_______________________________________________________________________________________________________________________________________________________________
+
+create table challenges(match_id serial primary key, username varchar(40) not null, opponent varchar(40) not null, first_score integer, second_score integer, user_time timestamp with time zone, opponent_time timestamp with time zone, puzzle text not null);
+grant select, insert, update, delete on table challenges to cp3101b;
+grant usage, select on sequence challenges_match_id_seq to cp3101b;
+
+
+
+create table results(username varchar(40) not null, recent text);
+grant select, insert, update, delete on table results to cp3101b;
+
+
+create table stats(username varchar(40) not null, rating integer, win integer, lose integer, draw integer);
+grant select, insert, update, delete on table stats to cp3101b;
+
+
+
+
+
+
+create table challenges(match_id serial primary key, username varchar(40) not null, opponent varchar(40) not null, first_score integer, second_score integer, user_time timestamp with time zone, opponent_time timestamp with time zone, puzzle text not null);
+create table results(username varchar(40) not null, recent text);
+create table stats(username varchar(40) not null, rating integer, win integer, lose integer, draw integer);
+
+
+drop table challenges;
+drop table results;
+drop table stats;
+
+
+
+delete from challenges where match_id >= 1;
+alter sequence challenges_match_id_seq restart with 1;
+

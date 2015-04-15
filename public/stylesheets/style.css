@@ -3,7 +3,7 @@ html {
 }
 
 body {
-	padding: 50px;
+	padding: 80px;
 	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 	height: 100%;
 }
@@ -28,4 +28,40 @@ a {
 .logo {
 	width: 20px;
 	height: 20px;
+}
+
+div.dropdown-menu {
+	padding-right: 20px;
+}
+
+div.lbl {
+	display: inline-block;
+	vertical-align: top;
+}
+
+div.desc {
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	overflow: auto;
+	max-width: 500px;
+	max-height: 200px;
+}
+
+th.a, td.a {
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 5px;
+	width: 230px;
+}
+
+th.b, td.b {
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 5px;
+}
+
+
+td > button {
+	width: 70px;
 }
